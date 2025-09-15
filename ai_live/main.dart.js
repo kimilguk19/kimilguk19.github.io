@@ -7370,7 +7370,7 @@ a8X:function a8X(){},
 aoX(){var s=0,r=A.R(t.H),q,p,o,n,m,l,k
 var $async$aoX=A.M(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=2
-return A.T($.at2().u2("assets/.env"),$async$aoX)
+return A.T($.at2().u2("assets/env.js"),$async$aoX)
 case 2:if($.a2==null)A.ax5()
 q=$.a2
 q.toString
